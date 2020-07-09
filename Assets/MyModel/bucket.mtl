@@ -1,0 +1,5 @@
+newmtl Wood_texture_floor_01
+map_Kd -o 0 0 -s 1 1 Wood texture floor_01.png
+Kd 1 1 1
+d 1
+
